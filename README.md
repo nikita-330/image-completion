@@ -18,10 +18,10 @@ https://www.kaggle.com/code/ashishjangra27/easier-doodle-dataset
 
 Install the required libraries....
 
-# 1. Prepare the dataset (load .npy files or pre-saved images)
-# 2. Create Generator and Discriminator
+## 1. Prepare the dataset (load .npy files or pre-saved images)
+## 2. Create Generator and Discriminator
 generator = build_generator()
 discriminator = build_discriminator()
-# 3. Train using a GAN training loop
-# 4. Visualize results
+## 3. Train using a GAN training loop
+## 4. Visualize results
 
